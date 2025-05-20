@@ -1,4 +1,6 @@
 # Game-hub
-This is my first git repository.
+This is a old slowroads.io game.
 <br>
-Author - S.I.Shuvo
+A new system:
+<br>
+If you press "O" bottom, A song start to playing in your display.
