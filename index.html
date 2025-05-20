@@ -195,9 +195,10 @@
       // Get the audio element
   const music = document.getElementById("bgMusic");
 
-// Listen for keydown event
+// Listen for keydown event for the toggle background music
 document.addEventListener("keydown", function(event) {
-  if (event.key === "o" || event.key === "O") {
+  if (event.key === "o" || event.key === "O") {// Check if the key pressed is 'o' or 'O'
+    // Toggle the music playback
     if (music.paused) {
       music.play();
     } else {
