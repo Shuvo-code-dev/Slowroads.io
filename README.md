@@ -2,7 +2,7 @@ Control settings to play this game:
 <br>
 1|(Moving forward)Prass-> 'W'
 <br>
-2|(Going backwards)Prass-> 's'
+2|(Going backwards)Prass-> 'S'
 <br>
 4|(Go right)Prass-> 'D'
 <br>
