@@ -1,4 +1,7 @@
-Control settings to play this game:
+<h1>👋 Hi, I’m @Shuvo-code-dev</h1>
+<br>
+<p>
+Some control settings to play this game:
 <br>
 1|(Moving forward)Prass-> 'W'
 <br>
@@ -25,3 +28,4 @@ Control settings to play this game:
 13|(To on the boost driving)Prass-> 'W + Shift'
 <br>
 14|(The following settings are for making the background invisible)Prass-> 'U'
+</p>
