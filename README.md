@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m @Shuvo-code-dev</h1>
 <br>
 <p>
-<u>Some control settings to play this game:</u>
+<u>Some control instructions to play this game:</u>
 <br>
 1|(Moving forward)Prass-> 'W'
 <br>
