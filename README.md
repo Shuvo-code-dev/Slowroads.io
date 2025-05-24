@@ -1,4 +1,4 @@
-<h1>#slowroads.io</h1>
+# slowroads.io
 <br>
 <p>
 <u>Some control instructions to play this game:</u>
