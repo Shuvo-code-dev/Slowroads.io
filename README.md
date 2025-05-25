@@ -27,5 +27,9 @@
 <br>
 13|(To on the boost driving)Prass-> 'W + Shift'
 <br>
+or
+<br>
+Double prass-> 'w'
+<br>
 14|(The following settings are for making the background invisible)Prass-> 'U'
 </p>
