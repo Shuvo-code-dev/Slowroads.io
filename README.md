@@ -31,3 +31,6 @@
 <br>
 14|(The following settings are for making the background invisible)Prass-> 'U'
 </p>
+<br>
+<br>
+<h2><img src="ss.png" alt="Rock-Paper-Scissors" width="300"></h2>
