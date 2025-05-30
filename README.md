@@ -33,4 +33,4 @@
 </p>
 <br>
 <br>
-<h2><img src="ss.png" alt="slowroads.io" width="300"></h2>
+<img src="ss.png" alt="slowroads.io" width="300">
