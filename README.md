@@ -1,7 +1,7 @@
 # slowroads.io
 <br>
 <p>
-<u>Some control instructions to play this game:</u>
+<u>Some control instructions to play this game in your PC:</u>
 <br>
 1|(Moving forward)Prass-> 'W'
 <br>
