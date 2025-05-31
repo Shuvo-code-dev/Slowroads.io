@@ -36,5 +36,5 @@
 14|(The following settings are for making the background invisible)Prass-> 'U'
 </p>
 <br>
-<h2>✨An image of the game being played on PC👇👇<h2>
+<h2>✨An image of the game being played on Mobile👇👇<h2>
 <img src="ss2.png" alt="slowroads.io" width="850">
