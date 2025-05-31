@@ -6,7 +6,6 @@
 <h3>
 <u>✨Control instructions to play this game in your PC:</u>
 </h3>
-<br>
 <p>
 1|(Moving forward)Prass-> 'W'
 <br>
