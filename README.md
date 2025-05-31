@@ -32,4 +32,4 @@
 14|(The following settings are for making the background invisible)Prass-> 'U'
 </p>
 <h2>An image of the game being played on PC<h2>
-<img src="ss.png" alt="slowroads.io" width="650">
+<img src="ss.png" alt="slowroads.io" width="850">
