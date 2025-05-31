@@ -3,9 +3,11 @@
 <h2>✨An image of the game being played on PC👇👇<h2>
 <img src="ss.png" alt="slowroads.io" width="850">
 <br>
-<p>
+<h3>
 <u>✨Control instructions to play this game in your PC:</u>
+</h3>
 <br>
+<p>
 1|(Moving forward)Prass-> 'W'
 <br>
 2|(Going backwards)Prass-> 'S'
