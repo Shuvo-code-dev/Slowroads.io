@@ -2,7 +2,6 @@
 <br>
 <h2>✨An image of the game being played on PC👇👇</h2>
 <img src="ss.png" alt="slowroads.io" width="850">
-<br>
 <h3>
 <u>✨Control instructions to play this game in your PC:</u>
 </h3>
