@@ -29,7 +29,7 @@
 12|(To on the music)Prass-> 'O'
 <br>
 13|(To on the boost driving)Prass-> 'W + Shift' 
-    <br>
+<br>
 or Double prass-> 'w'
 <br>
 14|(The following settings are for making the background invisible)Prass-> 'U'
