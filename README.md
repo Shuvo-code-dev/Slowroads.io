@@ -3,7 +3,7 @@
 <h2>✨An image of the game being played on PC👇👇</h2>
 <img src="ss.png" alt="slowroads.io" width="850">
 <h3>
-✨Control instructions to play this game in your PC:
+✨Keyboard control instructions to play this game in your PC:
 </h3>
 <p>
 1|(Moving forward)Prass-> 'W'
