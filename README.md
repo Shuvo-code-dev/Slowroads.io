@@ -1,6 +1,6 @@
 # Slowroads.io
 <br>
-## ✨An image of the game being played on PC👇👇
+<h2>✨An image of the game being played on PC👇👇</h2>
 <img src="ss.png" alt="slowroads.io" width="850">
 <br>
 <h3>
