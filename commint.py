@@ -3,7 +3,7 @@ import datetime
 
 file_path = "daily_update.txt"
 
-for i in range(100): 
+for i in range(50): 
     with open(file_path, "a") as file:
         file.write(f"Commit {i+1}: Updated on {datetime.datetime.now()}\n")
 
